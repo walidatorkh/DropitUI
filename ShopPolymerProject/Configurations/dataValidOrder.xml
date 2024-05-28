@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ENVIROMENT>
+	<ORDER>
+		<ID>1</ID>
+		<ITEM>Item1</ITEM>
+		<EMAIL>vasysa@vasya.com</EMAIL>
+		<PHONENUMBER>1234567890</PHONENUMBER>
+		<ADDRESS>Herzl 10</ADDRESS>
+		<CITY>Los Angeles</CITY>
+		<STATE>California</STATE>
+		<ZIP>123456</ZIP>
+		<CCNAME>Vasya Pupkin</CCNAME>
+		<CCNUMBER>1234 5678 4321 8765</CCNUMBER>
+		<CCCVV>321</CCCVV>
+	</ORDER>
+</ENVIROMENT>
