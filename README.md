@@ -26,6 +26,8 @@ Quantity: 3
 - Next request can't be tested due not exist validation for non-valid input for enail field:
    "After adding a non-valid input to a field, a verification is needed to make sure that
 the right error message is presented to the user (for the email field, for example,
-the message “Invalid Email” should be presented to the user under the field)." 
+the message “Invalid Email” should be presented to the user under the field)."
+
+p.s. Sometimes must run next command "taskkill /F /IM chromedriver.exe" in case appeared ghosts chromedriver processes 
 
 
